@@ -1,0 +1,1 @@
+import{j as a}from"./index-DkCumAEg.js";const d=({children:s,className:o="",hoverable:r=!1})=>{const t="bg-white rounded-lg shadow-md overflow-hidden",e=r?"transition-transform duration-300 hover:shadow-lg hover:-translate-y-1":"";return a.jsx("div",{className:`${t} ${e} ${o}`,children:s})};export{d as C};
